@@ -28,7 +28,7 @@ function CoreServices() {
         <div className="services-grid">
 
           <div className="service-card">
-            <img src="/images/residential.jpg" alt="Residential Construction"/>
+            <img src="/react-admin-panel/images/residential.jpg" alt="Residential Construction"/>
             <h4>Residential Construction</h4>
             <p>
               We build independent houses, villas, duplex homes and apartments
@@ -37,7 +37,7 @@ function CoreServices() {
           </div>
 
           <div className="service-card">
-            <img src="/images/commercial.jpg" alt="Commercial Construction"/>
+            <img src="/react-admin-panel/images/commercial.jpg" alt="Commercial Construction"/>
             <h4>Commercial Construction</h4>
             <p>
               Professional office spaces, IT parks, showrooms and retail
