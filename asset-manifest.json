@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-admin-panel/static/css/main.d75235f6.css",
-    "main.js": "/react-admin-panel/static/js/main.b09e2279.js",
+    "main.js": "/react-admin-panel/static/js/main.7628df56.js",
     "static/js/453.e516b9ce.chunk.js": "/react-admin-panel/static/js/453.e516b9ce.chunk.js",
     "static/media/slick.svg": "/react-admin-panel/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/react-admin-panel/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/react-admin-panel/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/react-admin-panel/index.html",
     "main.d75235f6.css.map": "/react-admin-panel/static/css/main.d75235f6.css.map",
-    "main.b09e2279.js.map": "/react-admin-panel/static/js/main.b09e2279.js.map",
+    "main.7628df56.js.map": "/react-admin-panel/static/js/main.7628df56.js.map",
     "453.e516b9ce.chunk.js.map": "/react-admin-panel/static/js/453.e516b9ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d75235f6.css",
-    "static/js/main.b09e2279.js"
+    "static/js/main.7628df56.js"
   ]
 }
