@@ -40,27 +40,27 @@ return (
 <Slider {...settings}>
 
 <div className="brand-card">
-<img src="/images/Kajaria.png" alt="UltraTech"/>
+<img src="/react-admin-panel/images/Kajaria.png" alt="UltraTech"/>
 </div>
 
 <div className="brand-card">
-<img src="/images/Scneider.png" alt="Schneider Electric"/>
+<img src="/react-admin-panel/images/Scneider.png" alt="Schneider Electric"/>
 </div>
 
 <div className="brand-card">
-<img src="/images/UltraTech.png" alt="Jaquar"/>
+<img src="/react-admin-panel/images/UltraTech.png" alt="Jaquar"/>
 </div>
 
 <div className="brand-card">
-<img src="/images/Dr.-FIXIT.png" alt="Dr Fixit"/>
+<img src="/react-admin-panel/images/Dr.-FIXIT.png" alt="Dr Fixit"/>
 </div>
 
 <div className="brand-card">
-<img src="/images/Scneider.png" alt="Kajaria"/>
+<img src="/react-admin-panel/images/Scneider.png" alt="Kajaria"/>
 </div>
 
 <div className="brand-card">
-<img src="/images/Dr.-FIXIT.png" alt="Legrand"/>
+<img src="/react-admin-panel/images/Dr.-FIXIT.png" alt="Legrand"/>
 </div>
 
 </Slider>

@@ -56,10 +56,10 @@ function TurnkeySolution() {
 
             <div className="turnkey-gallery">
 
-              <img src="/images/house1.jpg" alt="Construction"/>
-              <img src="/images/house2.jpg" alt="Building"/>
-              <img src="/images/house3.jpg" alt="Villa"/>
-              <img src="/images/house4.jpg" alt="Interior"/>
+              <img src="/react-admin-panel/images/house1.jpg" alt="Construction"/>
+              <img src="/react-admin-panel/images/house2.jpg" alt="Building"/>
+              <img src="/react-admin-panel/images/house3.jpg" alt="Villa"/>
+              <img src="/react-admin-panel/images/house4.jpg" alt="Interior"/>
 
             </div>
 

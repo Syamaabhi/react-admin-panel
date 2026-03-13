@@ -36,12 +36,12 @@ return (
 
 <Slider {...settings}>
 
-<div><img src="/images/ultratech.png" alt="UltraTech"/></div>
-<div><img src="/images/schneider.png" alt="Schneider"/></div>
-<div><img src="/images/jaquar.png" alt="Jaquar"/></div>
-<div><img src="/images/drfixit.png" alt="Dr Fixit"/></div>
-<div><img src="/images/kajaria.png" alt="Kajaria"/></div>
-<div><img src="/images/legrand.png" alt="Legrand"/></div>
+<div><img src="/react-admin-panel/images/ultratech.png" alt="UltraTech"/></div>
+<div><img src="/react-admin-panel/images/schneider.png" alt="Schneider"/></div>
+<div><img src="/react-admin-panel/images/jaquar.png" alt="Jaquar"/></div>
+<div><img src="/react-admin-panel/images/drfixit.png" alt="Dr Fixit"/></div>
+<div><img src="/react-admin-panel/images/kajaria.png" alt="Kajaria"/></div>
+<div><img src="/react-admin-panel/images/legrand.png" alt="Legrand"/></div>
 
 </Slider>
 
@@ -50,11 +50,11 @@ return (
 
 <Slider {...settings}>
 
-<div><img src="/images/hdfc.png" alt="HDFC"/></div>
-<div><img src="/images/sbi.png" alt="SBI"/></div>
-<div><img src="/images/icici.png" alt="ICICI"/></div>
-<div><img src="/images/lic.png" alt="LIC Housing"/></div>
-<div><img src="/images/axis.png" alt="Axis Bank"/></div>
+<div><img src="/react-admin-panel/images/hdfc.png" alt="HDFC"/></div>
+<div><img src="/react-admin-panel/images/sbi.png" alt="SBI"/></div>
+<div><img src="/react-admin-panel/images/icici.png" alt="ICICI"/></div>
+<div><img src="/react-admin-panel/images/lic.png" alt="LIC Housing"/></div>
+<div><img src="/react-admin-panel/images/axis.png" alt="Axis Bank"/></div>
 
 </Slider>
 

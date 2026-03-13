@@ -37,30 +37,30 @@ return (
 <Slider {...settings}>
 
 <div className="bank-logo">
-<img src="/images/hdfc.png" alt="HDFC"/>
+<img src="/react-admin-panel/images/hdfc.png" alt="HDFC"/>
 </div>
 
 <div className="bank-logo">
-<img src="/images/sbi.png" alt="SBI"/>
+<img src="/react-admin-panel/images/sbi.png" alt="SBI"/>
 </div>
 
 <div className="bank-logo">
-<img src="/images/IDFC.png" alt="ICICI"/>
+<img src="/react-admin-panel/images/IDFC.png" alt="ICICI"/>
 </div>
 
 <div className="bank-logo">
-<img src="/images/bajaj.png" alt="Axis"/>
+<img src="/react-admin-panel/images/bajaj.png" alt="Axis"/>
 </div>
 
 <div className="bank-logo">
-<img src="/images/pnb.png" alt="LIC"/>
+<img src="/react-admin-panel/images/pnb.png" alt="LIC"/>
 </div>
 <div className="bank-logo">
-<img src="/images/hdfc.png" alt="HDFC"/>
+<img src="/react-admin-panel/images/hdfc.png" alt="HDFC"/>
 </div>
 
 <div className="bank-logo">
-<img src="/images/sbi.png" alt="SBI"/>
+<img src="/react-admin-panel/images/sbi.png" alt="SBI"/>
 </div>
 </Slider>
 

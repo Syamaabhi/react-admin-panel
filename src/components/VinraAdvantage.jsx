@@ -13,7 +13,7 @@ function VinraAdvantage() {
           <div className="col-lg-6">
 
             <img
-              src="/images/construction-team.jpg"
+              src="/react-admin-panel/images/construction-team.jpg"
               alt="House Construction"
               className="advantage-img"
             />

@@ -4,27 +4,27 @@ function Projects() {
 
   const projects = [
     {
-      img: "/images/project1.jpg",
+      img: "/react-admin-panel/images/project1.jpg",
       title: "Luxury Villa Construction"
     },
     {
-      img: "/images/project2.jpg",
+      img: "/react-admin-panel/images/project2.jpg",
       title: "Modern Duplex House"
     },
     {
-      img: "/images/project3.jpg",
+      img: "/react-admin-panel/images/project3.jpg",
       title: "Independent House Project"
     },
     {
-      img: "/images/project4.jpg",
+      img: "/react-admin-panel/images/project4.jpg",
       title: "Commercial Building"
     },
     {
-      img: "/images/project5.jpg",
+      img: "/react-admin-panel/images/project5.jpg",
       title: "Apartment Construction"
     },
     {
-      img: "/images/project6.jpg",
+      img: "/react-admin-panel/images/project6.jpg",
       title: "Premium Villa Project"
     }
   ];
