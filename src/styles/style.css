@@ -694,13 +694,6 @@ transition:0.3s;
 filter:none;
 transform:scale(1.1);
 }
-/* .ready-section{
-background:url("/images/construction-bg.jpg") center/cover no-repeat;
-padding:100px 0;
-position:relative;
-color:white;
-text-align:center;
-} */
 
 .ready-overlay{
 background:rgba(0,0,0,0.6);
@@ -795,20 +788,7 @@ position:relative;
 }
 
 
-/* .hero1{
-background-image: url("/images/a.jpg");
-background-size: cover;
-background-position: center;
-}
 
-
-.hero2{
-background-image:url("/images/a.jpg");
-}
-
-.hero3{
-background-image:url("/images/a.jpg");
-}  */ */
 
 .hero-overlay{
 background:rgba(0,0,0,0.6);
@@ -919,7 +899,7 @@ font-size:14px;
 .mega-footer{
     
     background-color: #477ebd;   /* dark blue */
-/* background-image:url("../images/footer-bg.jpg") ; */
+
 background-size:cover;
 background-position:center;
 color:white;

@@ -10,7 +10,7 @@ function AboutVinra() {
           {/* LEFT IMAGE */}
           <div className="col-lg-6">
             <img
-              src="/images/about-vinra.jpg"
+              src="/react-admin-panel/images/about-vinra.jpg"
               alt="Vinra Construction"
               className="about-img"
             />
